@@ -1,2 +1,3 @@
 # newrepo
+local
 test text
