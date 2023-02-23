@@ -1,2 +1,3 @@
 # newrepo
+remote
 test text
